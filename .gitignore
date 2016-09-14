@@ -1,6 +1,9 @@
 # OS X
 .DS_Store
 
+# Jetbrains IDEA
+.idea
+
 # Xcode
 #
 build/
